@@ -38,6 +38,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo globar/local para parâmetros de segurança e lógica condicional | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+ **Engenharia de Soluções Lógicass** |Um programa que consiste no desenvolvimento da lógica para um sistema de triagem hospitalar automatizado. Realiza a classificação preliminar de pacientes com base em sinais vitais e critérios demográficos, auxiliando na priorização do atendimento médico através de níveis de risco | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
  
 ---
  
