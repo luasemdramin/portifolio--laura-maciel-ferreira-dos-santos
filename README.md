@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na UNICID. Comecei a estudar programação este ano, mas sempre fui apaixonada por tecnologia desde criança.Atualmente, estou estudando Pyton, mas também utilido o VibeCoding para aprimorar meu aprendizado em outros tipos de linguagem, possuo foco em Desenvolvimento Backend/Front-end, Design UX/UI, Inteligência Artificial (IA) e Marketing Digital. 
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na UNICID. Comecei a estudar programação este ano, mas sempre fui apaixonada por tecnologia. Atualmente, estou estudando Python, mas também utilizo o VibeCoding para aprimorar meu aprendizado em outros tipos de linguagem, possuindo foco em Desenvolvimento Backend/Front-end, Design UX/UI, Inteligência Artificial (IA) e Marketing Digital. 
  
 * **Habilidades Técnicas:** Python.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, criatividade e desenvolvimento de inovações.
